@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Matheus da Costa
+# 💻 Matheus da Costa
 
 **`Desenvolvedor Front-End | Web Developer`**
 
@@ -114,7 +114,7 @@ Me chamo Matheus da Costa Raimundo, tenho 24 anos e sou natural de Santa Catarin
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Mathiore&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
