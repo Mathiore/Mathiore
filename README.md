@@ -1,6 +1,6 @@
 # 💻 Matheus da Costa
 
-**`Desenvolvedor Front-End | Web Developer`**
+**`Desenvolvedor Full Stack | Web Developer`**
 
 Me chamo Matheus da Costa Raimundo, tenho 24 anos e sou natural de Santa Catarina. Concluí o ensino médio na UNIVALI. Atualmente, estou cursando Ciência da Computação na UNIVALI finalizando o bacharel em 2025. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu github.
 
